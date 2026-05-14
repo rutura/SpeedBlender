@@ -6,7 +6,7 @@ name = "VSE Speed Review"
 tagline = "Faster playback in the VSE for review without affecting render"
 type = "add-on"
 
-maintainer = "Jane Doe <jane.doe@example.com>"
+maintainer = "Daniel Gakwaya <daniel.g@learnqt.guide>"
 
 blender_version_min = "5.1.0"
 
