@@ -1,0 +1,15 @@
+﻿schema_version = "1.0.0"
+
+id = "vse_speed_review"
+version = "0.1.0"
+name = "VSE Speed Review"
+tagline = "Faster playback in the VSE for review without affecting render"
+type = "add-on"
+
+maintainer = "Jane Doe <jane.doe@example.com>"
+
+blender_version_min = "5.1.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+
+tags = ["Sequencer"]
